@@ -1,0 +1,4 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+ListBench	head tail		1	2206959
+ListBench	map list		1	1475131
